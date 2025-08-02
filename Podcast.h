@@ -6,7 +6,7 @@
 // Derived class of media
 class Podcast : public Media {
 private:
-    string host;         // Podcast host's name
+    string host;   // Podcast host's name
     int episodeNumber;   // Episode number
 
 public:
